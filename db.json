@@ -1,0 +1,57 @@
+{
+  "tickets": [
+    {
+      "userId": 4,
+      "ticketId": "TC10001",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "area": "IT"
+    },
+  
+    {
+      "userId": 3,
+      "ticketId": "TC1002",
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "area": "IT"
+    }
+  ],
+
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "position": "Administrator",
+      "area": "Ticketing"
+    },
+  
+    {
+      "id": 2,
+      "name": "Ana Lopez",
+      "email": "ana@april.biz",
+      "phone": "1-770-736-8031 x56443",
+      "position": "Technician",
+      "area": "IT"
+    },
+  
+    {
+      "id": 3,
+      "name": "Juan Martinez",
+      "email": "juan@april.biz",
+      "phone": "1-770-736-8031 x56447",
+      "position": "Teacher",
+      "area": "Business"
+    },
+  
+    {
+      "id": 4,
+      "name": "Cosme Fulanito",
+      "email": "cosne@april.biz",
+      "phone": "1-770-736-8031 x56449",
+      "position": "Researcher",
+      "area": "Engineering"
+    }
+  ]
+}
