@@ -2,7 +2,7 @@
   "tickets": [
     {
       "userId": 4,
-      "ticketId": "TC10001",
+      "id": "TC10001",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "area": "IT"
@@ -10,7 +10,7 @@
   
     {
       "userId": 3,
-      "ticketId": "TC1002",
+      "id": "TC1002",
       "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
       "area": "IT"
